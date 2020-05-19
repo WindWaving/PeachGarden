@@ -3,15 +3,24 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+[Ll]ogs/
+[Pp]ackages/
+[Tt]emp/
+[Oo]bj/
+[Ll]ibrary
 
 # Other files and folders
-.settings/
+.vs/
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+.settings/
+*.csproj
+.vs
+*.sln
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
