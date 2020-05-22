@@ -1,0 +1,18 @@
+{
+    "level":0,
+    "bag":[
+        {
+            "name":"fu",
+            "count":1
+        },
+        {
+            "name":"cha",
+            "count":3
+        }
+    ],
+    "setting":[
+        {
+            "volumn":4
+        }
+    ]
+}
